@@ -4,8 +4,7 @@ Style your termux with custom name and banner
 
 How to add custom name like ' $The_Eagle# ' from 
 stock  '$' with colour to do just follow 
-some commands and it just with command 
-without any git clone 
+some commands and without any git clone 
 
 # Installation
 
