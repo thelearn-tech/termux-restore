@@ -1,3 +1,5 @@
+
+
 #!/data/data/com.termux/files/usr/bin/bash
 apt update
 apt upgrade
