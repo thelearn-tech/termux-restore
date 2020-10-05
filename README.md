@@ -27,7 +27,7 @@ And y
 
 And enter
 
-Now restart or open new session
+Now restart or open new session to see changes
 
 #customise your name
 PS1='\033[01;34m\]$\[\033[01;32m\]Root\[\033[01;34m\]@\[\033[01;31m\] Termux\[\033[00;34m\]\[\033[01;34m\]#\[\033[01;32m\]'
@@ -52,4 +52,6 @@ Then ctrl+x
 
 Then y 
 
-And restart or open new session to see changes
+And enter
+
+Now restart or open new session to see changes
