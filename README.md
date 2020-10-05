@@ -29,7 +29,7 @@ And enter
 
 Now restart or open new session to see changes
 
-#customise your name
+# customise your name
 PS1='\033[01;34m\]$\[\033[01;32m\]Root\[\033[01;34m\]@\[\033[01;31m\] Termux\[\033[00;34m\]\[\033[01;34m\]#\[\033[01;32m\]'
 
  Replace '$' 'Root' '@' 'Termux'
