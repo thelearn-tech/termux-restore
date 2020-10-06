@@ -19,4 +19,4 @@ bash.bashrc file to original one
 # **if you copy don't forget to give me credit**
 
 # warning
-after restoration of bash.bashrc , script will delete automatically
+**after restoration of bash.bashrc , script will delete automatically**
