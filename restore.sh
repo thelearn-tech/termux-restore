@@ -28,3 +28,8 @@ cd
 cd /$HOME
 figlet The_Eagle
 echo Now Your Termux is back to Original
+echo 
+echo uninstalling script
+cd
+rm -rf termux-restore
+cd
