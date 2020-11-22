@@ -19,6 +19,7 @@ Community forum: https://termux.com/community
 IRC channel:     #termux on freenode
 Gitter chat:     https://gitter.im/termux/termux
 Mailing list:    termux+subscribe@groups.io
+GitHub:          https://github.com/thelearn-tech
 
 Search packages:   pkg search <query>
 Install a package: pkg install <package>
