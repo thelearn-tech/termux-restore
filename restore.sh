@@ -27,9 +27,9 @@ Upgrade packages:  pkg upgrade
 Learn more:        pkg help" > motd
 cd
 cd /$HOME
-figlet The_Eagle
+echo ""
 echo Now Your Termux is back to Original
-echo 
+echo ""
 echo uninstalling script
 cd
 rm -rf termux-restore
